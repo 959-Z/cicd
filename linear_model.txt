@@ -1,2 +1,2 @@
-Coefficients: [9477.35890278]
-Intercept: 25679.700265209234
+Coefficients: [9491.75749361]
+Intercept: 25617.389803505015
